@@ -1,10 +1,10 @@
 Basic-java-cookbook
 ===================
 
-This repository installs a specified java version on the VM.
+This Chef cookbook installs java.
 
-The basic-java-cookbook does not offer any functionality whatsoever and likely you'll want to use
+The basic-java-cookbook has very limited configurability and likely you'll want to use
 the official java cookbook for your deployments instead.
 
-Personally I found those way too complicated for my taste; this cookbook contains just a couple of
-lines of code to achieve what I need.
+Personally I find the community cookbooks too complicated; this cookbook is tailored to my personal
+needs.
